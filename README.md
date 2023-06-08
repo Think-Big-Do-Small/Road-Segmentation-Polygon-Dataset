@@ -1,5 +1,5 @@
 # Road-Segmentation-Polygon-Dataset
-Road-Segmentation With Polygon Labeled [Road Dataset](https://github.com/Think-Big-Do-Small/Road-Segmentation-Polygon-Dataset/tree/main/road_dataset) by [Image Polygon Label Assistant](https://github.com/Think-Big-Do-Small/ImageMaskLabelAssistant).
+Road-Segmentation With Polygon Labeled [Road Dataset](https://github.com/Think-Big-Do-Small/Road-Segmentation-Polygon-Dataset/tree/main/road_dataset) by [ImageMaskPolygonLabelAssistant (图像数据集多边形标注助手)](https://github.com/Think-Big-Do-Small/ImageMaskLabelAssistant).
 
 ### Demo 
 - road test image 
