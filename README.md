@@ -20,6 +20,30 @@ Road-Segmentation With Polygon Labeled [Road Dataset](https://github.com/Think-B
 - road predict image 3
 <img width="480" height="320" src="https://github.com/Think-Big-Do-Small/Road-Segmentation-Polygon-Dataset/blob/main/road_dataset/test/predict/Road_in_Norway.jpg.png"/>  
 
+```bash 
+# unet_seg_test_demo.py
+
+### Import required library and packages
+import os
+import numpy as np
+import cv2
+from glob import glob
+from sklearn.model_selection import train_test_split
+import tensorflow as tf
+from tensorflow.keras.models import Model
+from tensorflow.keras.layers import Conv2D, BatchNormalization, Activation, MaxPool2D, Conv2DTranspose, Concatenate, Input
+from tensorflow.keras.callbacks import ModelCheckpoint, ReduceLROnPlateau, CSVLogger, EarlyStopping
+import matplotlib.pyplot as plt
+from tqdm import tqdm
+import urllib
+import IPython
+
+
+# list all available physical devices 
+from tensorflow.python.client import device_lib
+print(device_lib.list_local_devices())
+```
+
 ### About Me 
 - Computer Science, Master, Shenzhen University
 - I am a software engineer 
