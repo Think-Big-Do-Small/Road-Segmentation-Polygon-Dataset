@@ -2,7 +2,7 @@
 Road-Segmentation With Polygon Labeled [Road Dataset](https://github.com/Think-Big-Do-Small/Road-Segmentation-Polygon-Dataset/tree/main/road_dataset) by [ImageMaskPolygonLabelAssistant (图像数据集多边形标注助手)](https://github.com/Think-Big-Do-Small/ImageMaskLabelAssistant).
 
 ### Run 
-Run program with cuda toolkit 12.x, tensorflow-gpu, opencv, etc...
+Run program with CUDA Toolkit 12.x, Tensorflow-GPU, OpenCV, etc...
 
 ### Demo 
 - road test image 1
