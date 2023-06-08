@@ -50,7 +50,8 @@ print(device_lib.list_local_devices())
 ```
 
 ### Model Weights 
-- [model train data analysis](https://github.com/Think-Big-Do-Small/Road-Segmentation-Polygon-Dataset/blob/main/model/road_seg_data.csv)
+- model weights download [weights](https://github.com/Think-Big-Do-Small/Road-Segmentation-Polygon-Dataset/tree/main/model)
+- model train data analysis [data analysis](https://github.com/Think-Big-Do-Small/Road-Segmentation-Polygon-Dataset/blob/main/model/road_seg_data.csv)
 
 ### About Me 
 - Computer Science, Master, Shenzhen University
