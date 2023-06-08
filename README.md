@@ -8,10 +8,16 @@ Road-Segmentation With Polygon Labeled [Road Dataset](https://github.com/Think-B
 - road predict image 1
 <img width="480" height="320" src="https://github.com/Think-Big-Do-Small/Road-Segmentation-Polygon-Dataset/blob/main/road_dataset/test/predict/0002.png.png"/>  
 
-- road test image 2 
+- road test image 2
+<img width="480" height="320" src="https://github.com/Think-Big-Do-Small/Road-Segmentation-Polygon-Dataset/blob/main/road_dataset/test/images/0006.png"/>  
+
+- road predict image 2
+<img width="480" height="320" src="https://github.com/Think-Big-Do-Small/Road-Segmentation-Polygon-Dataset/blob/main/road_dataset/test/predict/0006.png.png"/>  
+
+- road test image 3 
 <img width="480" height="320" src="https://github.com/Think-Big-Do-Small/Road-Segmentation-Polygon-Dataset/blob/main/road_dataset/test/images/Road_in_Norway.jpg"/>  
 
-- road predict image 2 
+- road predict image 3
 <img width="480" height="320" src="https://github.com/Think-Big-Do-Small/Road-Segmentation-Polygon-Dataset/blob/main/road_dataset/test/predict/Road_in_Norway.jpg.png"/>  
 
 ### About Me 
