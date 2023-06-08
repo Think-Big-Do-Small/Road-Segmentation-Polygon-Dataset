@@ -49,6 +49,9 @@ from tensorflow.python.client import device_lib
 print(device_lib.list_local_devices())
 ```
 
+### Model Weights 
+- [model train data analysis](https://github.com/Think-Big-Do-Small/Road-Segmentation-Polygon-Dataset/blob/main/model/road_seg_data.csv)
+
 ### About Me 
 - Computer Science, Master, Shenzhen University
 - I am a software engineer 
